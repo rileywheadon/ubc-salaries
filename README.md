@@ -4,3 +4,13 @@ The University of British Columbia (UBC) is required to produce a Statement of F
 
 The original data can be found [here](https://finance.ubc.ca/reporting-planning-analysis/reports-and-disclosures).
 
+## Requirements
+
+| Library      | Version |
+| ------------ | ------- |
+| `python`     | 3.11.9        |
+| `pdfplumber` | 0.9.0   |
+| `numpy`      | 1.24.0  |
+| `pandas`     | 2.2.2   |
+| `python-fasthtml`   | 0.2.4   |
+
