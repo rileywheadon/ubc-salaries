@@ -8,9 +8,11 @@ The original data can be found [here](https://finance.ubc.ca/reporting-planning-
 
 | Library      | Version |
 | ------------ | ------- |
-| `python`     | 3.11.9        |
-| `pdfplumber` | 0.9.0   |
-| `numpy`      | 1.24.0  |
+| `python`     | 3.12.4        |
+| `numpy`      | 1.26.4  |
 | `pandas`     | 2.2.2   |
-| `python-fasthtml`   | 0.2.4   |
+| `python-fasthtml`   | 0.3.4   |
+| `pymupdf` | 1.24.9  |
+| `jupyterlab` | 4.2.4 |
+| `matplotlib` | 3.8.4 |
 
